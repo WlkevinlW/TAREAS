@@ -109,8 +109,7 @@ header a:hover{
 }
 
 #nuestros-programas{
-
-    max-width: 1000px;    
+  
     background-color: rgb(30,30,30);
     color: white;
     text-align: center;
@@ -157,6 +156,7 @@ header a:hover{
 }
 
 .carta:nth-child(3){
+    
     background-image: linear-gradient(
         0deg,
         rgba(0,0,0,0.5),
@@ -168,7 +168,7 @@ header a:hover{
 
 #caracteristicas .container{
     text-align: center;
-    padding: 250px 12px;
+    padding: 400px 12px;
 }
 
 #caracteristicas li{
@@ -331,8 +331,8 @@ footer .container{
     #caracteristicas{
         background-image: url("media/background-2.jpeg");
         background-repeat: no-repeat;
-        background-size: 500px 400px;
-        background-position: calc(100vw - 500px) 120px;
+        background-size: 600px 500px;
+        background-position: calc(200vw - 500px) 250px;
     }
 
     #caracteristicas .container{
