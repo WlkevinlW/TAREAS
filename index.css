@@ -109,6 +109,8 @@ header a:hover{
 }
 
 #nuestros-programas{
+
+    max-width: 1000px;    
     background-color: rgb(30,30,30);
     color: white;
     text-align: center;
