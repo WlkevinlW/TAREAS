@@ -166,7 +166,7 @@ header a:hover{
 
 #caracteristicas .container{
     text-align: center;
-    padding: 250px 12px;
+    padding: 380px 12px;
 }
 
 #caracteristicas li{
@@ -330,7 +330,8 @@ footer .container{
         background-image: url("media/background-2.jpeg");
         background-repeat: no-repeat;
         background-size: 500px 400px;
-        background-position: calc(100vw - 500px) 120px;
+        background-position: calc(100vw - 500px) 280px;
+       
     }
 
     #caracteristicas .container{
