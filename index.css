@@ -1,3 +1,5 @@
+
+
 *{
     box-sizing: border-box;
 }
@@ -53,7 +55,7 @@ header{
 header .logo{
     
     margin: 0;
-    margin-left: -450px;
+    margin-left: 10px;
     padding: 25px 0px 30px 0px;
     font-weight: bold;
     color: rgb(206, 123, 27);
@@ -136,10 +138,10 @@ header a:hover{
 }
 
 #nuestros-programas .carta{
-    background-position: center center;
+    background-position:center center;
     background-size: cover;
     padding: 50px 0px;
-    margin: 30px;
+    margin: 20px;
     border-radius: 30px;
 }
 
