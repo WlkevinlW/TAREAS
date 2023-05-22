@@ -387,13 +387,6 @@ footer .container{
 
 #bu{
     
-    font-size: 0.75em;
-    font-weight: bold;
-    padding: 10px 30px;
-    border-radius: 5px;
-    border: 2px solid rgba(0,0,0,0.3);
-    box-shadow: 2px 2px 10px rgba(0,0,0,0.5);
-    color: white;
-    background-color: rgb(206, 123, 27);
+   
     
 }
