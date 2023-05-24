@@ -49,7 +49,7 @@ button:hover{
 .color-acento{ color:rgb(176, 100, 12); }
 
 header{
-    background-color: rgb(245,245,245);
+    background-color: rgb(230,230,230);
     
 }
 
@@ -253,14 +253,14 @@ footer .container{
         
     }
     header .logo{
-        font-size: 2.5em;
+        font-size: 2.3em;
     }
 
     header nav{
         flex-direction: row;
         padding-bottom: 0;
         padding-right: 20px;
-        font-size: 1.5em;
+        font-size: 1.3em;
     }
 
     #hero h1{
