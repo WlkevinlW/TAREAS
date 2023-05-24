@@ -234,11 +234,12 @@ footer .container{
     align-items: flex-end;
 }
 
-@media (min-width: 1500px){
+@media (min-width: 1300px){
     header{
         position: fixed;
         width: 100%;
     }
+
 
     header .container{
         flex-direction: row;
